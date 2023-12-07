@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="button">Button</string>
+    <string name="show_data">Show Data</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_grade">Enter Grade</string>
+    <string name="data">Data</string>
+</resources>
